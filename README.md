@@ -1,11 +1,11 @@
-# 📘 Online MCQ Exam System (30 Questions + Navigation)
+# Online MCQ Exam System (30 Questions + Navigation)
 
 This system has **two apps**:
 
 1. `student_app.py` → Students attempt exam (MCQs, 60-min auto-submit, navigation with Next/Prev, results saved).
 2. `teacher_dashboard.py` → Teachers log in (password protected) to view results, leaderboard, analytics.
 
-## 🚀 Run Locally
+## Run Locally
 ```bash
 pip install -r requirements.txt
 python -m streamlit run student_app.py
