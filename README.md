@@ -12,7 +12,7 @@ python -m streamlit run student_app.py
 python -m streamlit run teacher_dashboard.py
 ```
 
-## 🌍 Deploy on Streamlit Cloud
+##  Deploy on Streamlit Cloud
 Upload both apps to GitHub and deploy them separately:
 - Student app → public exam link
 - Teacher app → password-protected dashboard
